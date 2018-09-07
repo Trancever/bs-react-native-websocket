@@ -1,6 +1,6 @@
 {
   "name": "bs-react-native-websocket",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Buckle Script bindings for react-native-websocket",
   "main": "index.js",
   "scripts": {

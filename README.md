@@ -11,7 +11,7 @@ $ yarn add bs-react-native-websocket react-native-websocket
 Then update your `bsconfig.json`, add `bs-react-native-websocket` to bs-dependencies.
 
 ```json
-"bs-dependencies": ["bs-react-native-paper"]
+"bs-dependencies": ["bs-react-native-websocket"]
 ```
 
 ## Usage
