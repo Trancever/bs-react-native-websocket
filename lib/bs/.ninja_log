@@ -1,0 +1,6 @@
+# ninja log v5
+0	56	1536313220	src/ReactNativeWebsocket.mlast	c13cfa3d38ed983c
+56	62	1536313220	src/ReactNativeWebsocket.mlast.d	3ef10ba3fdfee784
+0	16	1536313220	src/ReactNativeWebsocket.cmj	4749099dc0869f8
+0	16	1536313220	/Users/trens/dev/bs-react-native-websocket/lib/js/src/ReactNativeWebsocket.js	4749099dc0869f8
+0	16	1536313220	src/ReactNativeWebsocket.cmi	4749099dc0869f8
