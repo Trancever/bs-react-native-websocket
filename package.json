@@ -1,7 +1,7 @@
 {
   "name": "bs-react-native-websocket",
-  "version": "0.0.1",
-  "description": "",
+  "version": "1.0.0",
+  "description": "Buckle Script bindings for react-native-websocket",
   "main": "index.js",
   "scripts": {
     "start": "bsb -make-world -clean-world -w",
