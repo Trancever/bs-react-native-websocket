@@ -1,0 +1,1 @@
+# bs-react-native-websocket
