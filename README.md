@@ -16,7 +16,7 @@ Then update your `bsconfig.json`, add `bs-react-native-websocket` to bs-dependen
 
 ## Usage
 
-Usage is very similliar to react-native-websocket.
+Usage is very similar to react-native-websocket.
 
 Example:
 
